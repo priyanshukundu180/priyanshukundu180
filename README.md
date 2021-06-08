@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Priyanshu Kundu.I am a Software Engineer.
+- 👋 Hi, I’m Priyanshu Kundu.I am a Software Developer.
 - 💞️ I’m interested in Development and Design of Large Scale Systems and AI.
 - 📫 Reach me at https://www.linkedin.com/in/priyanshu-kundu-87b57115b/
 
